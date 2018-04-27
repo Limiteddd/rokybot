@@ -57,6 +57,12 @@ client.on('message', message => {
      if (message.content === 'jani') {
     	message.reply('Jani vagyok a mester,Vörösmarty-ba járok,14 éves vagyok,fiúk az ágyamba 1-2 csúsznak be...na jó 5-6-szor.');
   	}
+    if (message.content === 'új pornhub videó') {
+    	message.reply('mennem kell.');
+  	}
+    if (message.content === 'én') {
+    	message.reply('-egy meleg!');
+  	}
 });
 
 // THIS  MUST  BE  THIS  WAY
