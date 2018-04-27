@@ -48,6 +48,9 @@ client.on('message', message => {
      if (message.content === 'macska') {
     	message.reply('fasz');
   	}
+     if (message.content === 'owááá') {
+    	message.reply('méjbi itsz dö szádzönláááj,méjbi itsz dö vőrdz gon lájj');
+  	}
 });
 
 // THIS  MUST  BE  THIS  WAY
