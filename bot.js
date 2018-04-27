@@ -51,6 +51,9 @@ client.on('message', message => {
      if (message.content === 'owááá') {
     	message.reply('méjbi itsz dö szádzönláááj,méjbi itsz dö vőrdz gon lájj');
   	}
+     if (message.content === 'pixa') {
+    	message.reply('WÁÁÁÁÁÁÁÁÁÁÁÁÁÁÁÁÁÁÁÁÁÁÁÁÁÁÁÁÁÁÁÁÁÁÁÁÁÁÁÁÁÁÁÁÁÁÁÁÁÁÁÁÁÁÁÁÁ');
+  	}
 });
 
 // THIS  MUST  BE  THIS  WAY
