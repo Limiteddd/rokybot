@@ -6,8 +6,17 @@ client.on('ready', () => {
 });
 
 client.on('message', message => {
-    if (message.content === 'ping') {
-    	message.reply('pong');
+    if (message.content === 'cryface') {
+    	message.reply('Autista.');
+  	}
+    if (message.content === 'autista') {
+    	message.reply('CryFace.');
+  	}
+    if (message.content === 'Kibannollak az életből') {
+    	message.reply('csak ennyit tudsz hülye autista ');
+  	}
+    if (message.content === 'bazdmeg roky') {
+    	message.reply('háháháháhá autista :smile:');
   	}
 });
 
