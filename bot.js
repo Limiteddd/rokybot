@@ -30,8 +30,8 @@ client.on('message', message => {
     if (message.content === 'mérges?') {
     	message.reply('Hát szerintem csak te vagy az,te autista balfasz.');
   	}
-    if (message.content === 'autista') {
-    	message.reply('CryFace.');
+    if (message.content === 'gergő') {
+    	message.reply('szia');
   	}
      if (message.content === 'miért haltál meg?') {
     	message.reply('Editbug.');
