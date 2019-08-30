@@ -7,16 +7,16 @@ client.on('ready', () => {
 
 client.on('message', message => {
     if (message.content === 'segítség') {
-    	message.reply('A segítség itt van. Értesítettünk egy moderátort. @💔MIKI EGÉR 💔#7806 ');
+    	message.reply('A segítség itt van. Értesíts egy moderátort,azonnal. ');
   	}
-    if (message.content === 'miki egér') {
-    	message.reply('Miki Egér elérhetőségeti,a #elérhetőség szobában találod..');
+    if (message.content === 'stream') {
+    	message.reply('Mikor lesz stream? A #bejelentések szobában megtudhatod.');
   	}
-    if (message.content === 'Kibannollak az életből') {
-    	message.reply('csak ennyit tudsz hülye autista ');
+    if (message.content === 'twitch') {
+    	message.reply('Twitch: twitch.tv/limiteddd');
   	}
-    if (message.content === 'bazdmeg roky') {
-    	message.reply('háháháháhá autista :smile:');
+    if (message.content === 'miki faktor') {
+    	message.reply('MikiFaktor ha lesz,be lesz jelentve. Chill :b:oiz.');
   	}
     if (message.content === 'pofon') {
     	message.reply('Engem nem is pofozott fel. :open_mouth:');
