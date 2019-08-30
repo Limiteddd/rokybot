@@ -6,11 +6,11 @@ client.on('ready', () => {
 });
 
 client.on('message', message => {
-    if (message.content === 'cryface') {
-    	message.reply('Autista.');
+    if (message.content === 'segítség') {
+    	message.reply('A segítség itt van. Értesítettünk egy moderátort. @💔MIKI EGÉR 💔#7806 ');
   	}
-    if (message.content === 'autista') {
-    	message.reply('CryFace.');
+    if (message.content === 'miki egér') {
+    	message.reply('Miki Egér elérhetőségeti,a #elérhetőség szobában találod..');
   	}
     if (message.content === 'Kibannollak az életből') {
     	message.reply('csak ennyit tudsz hülye autista ');
